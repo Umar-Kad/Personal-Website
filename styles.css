@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(70, 70, 177);
+}
+
+.BobaImage {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+h1 {
+    text-align: center
+}
+
+.Coder {
+    width: 200px;
+    height: 100px;
+    border-radius: 15%;
+}
+
+.thumbsup {
+    width: 200px;
+    height: 200px;
+    display: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.thumbText {
+    display: none;
+    margin-left: auto;
+    margin-right: auto;
+}
